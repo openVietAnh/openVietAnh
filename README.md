@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tran Viet Anh - @vietanhtran2710 
-- 👀 I’m interested in Deep Leanring, Robot Operating System, Edge Computing, Blockchain, Web...
+- 👀 I’m interested in Deep Learning, Robot Operating System, Edge Computing, Blockchain, Web...
 - 📫 How to reach me: vietanhtran.uet@gmail.com
 
 <!---
