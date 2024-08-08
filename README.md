@@ -2,6 +2,9 @@
 Email: vietanhtran.uet@gmail.com
 
 # Experiences
+### Blockchain & Software Engineer
+Teko Solution
+
 ### Data mining and analysis in Decentralized Finance
 Client: Faculty of Finance & Banking - UEB - VNU
 
@@ -43,6 +46,6 @@ Students.
 **Third prize** Hanoi Youth IT Competitive Programming.
 
 <!---
-vietanhtran2710/vietanhtran2710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+openVietAnh/openVietAnh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
